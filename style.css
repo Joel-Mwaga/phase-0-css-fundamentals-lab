@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  margin-left: 480px;
+}
+nav{
+  display: flex;
+  justify-content: center;
+}
+nav a{
+  margin-left: 20px;
+}
+img{
+  margin-left: 130px;
+}
+figcaption{
+  margin-left: 300px;
+}
+#details{
+  margin-left: 10px;
+  display: flex;
+  background-color: red;
+}
+#details p{
+  margin-left: 20px;
+}
